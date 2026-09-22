@@ -1,4 +1,4 @@
-# All unpinned blobs below are extracted from diting OS3.0.4.0.VLFMIXM
+# All unpinned blobs below are extracted from diting OS3.0.6.0.VLFMIXM
 
 # ADSP
 vendor/bin/adsprpcd
@@ -499,12 +499,10 @@ vendor/lib64/libsn100u_fw.so
 # Perf
 vendor/bin/hw/vendor.qti.hardware.perf-hal-service
 vendor/etc/init/vendor.qti.hardware.perf-hal-service.rc
-vendor/etc/perf/avcsysnodesconfigs.xml
 vendor/etc/perf/commonresourceconfigs.xml
 vendor/etc/perf/commonsysnodesconfigs.xml
 vendor/etc/perf/perfboostsconfig.xml
 vendor/etc/perf/perfboostselection.xml
-vendor/etc/perf/perfconfigstore.xml
 vendor/etc/perf/targetconfig.xml
 vendor/etc/perf/targetresourceconfigs.xml
 vendor/etc/perf/targetsysnodesconfigs.xml
